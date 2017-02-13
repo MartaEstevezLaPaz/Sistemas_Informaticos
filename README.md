@@ -12,8 +12,11 @@ Todas las redes estarán conectadas mediante routers.
 Tendremos tres servidores web:
 
 www.albacete.es : muestra una foto de Albacete.
+
 www.wagner.de : muestra una foto de Wagner.
+
 www.dilar.com : muestra una toto de Dílar.
+
 Existirá un servidor DNS para resolver los nombres anteriores.
 
 Todas las redes deben estar etiquetadas.
